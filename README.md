@@ -54,7 +54,7 @@ Importante: ao rodar no seu Raspberry, verifique qual endereço foi identificado
 ## 1. Clonar o projeto
 
 ```bash
-git clone <repo>
+git clone <https://github.com/HevelinFR/sensor-gateway.git>
 cd sensor-gateway
 ```
 
@@ -114,7 +114,7 @@ cd grove.py
 
 Importante: esse ajuste deve ser feito antes de instalar a biblioteca no ambiente virtual.
 
-Ao utilizar a biblioteca `grove.py`, o endereço padrão do ADC estava configurado como:
+Ao utilizar a biblioteca [grove.py](https://github.com/seeed-studio/grove.py), o endereço padrão do ADC estava configurado como:
 
 ```python
 address = 0x04
