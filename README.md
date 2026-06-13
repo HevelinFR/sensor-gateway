@@ -171,7 +171,7 @@ source venv/bin/activate
 Executar o menu principal do projeto:
 
 ```bash
-python app/main.py
+python -m app.main
 ```
 
 Ao executar o comando, um menu será exibido no terminal.
