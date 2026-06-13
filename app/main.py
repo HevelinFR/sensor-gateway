@@ -13,7 +13,7 @@ def main():
 
         print("\nQual sensor deseja testar?\n")
 
-        print("[1] - Sensor de luminosidade")
+        print("[1] - Sensor de luminosidade (Grove Light Sensor v1.2)")
 
         sensor_option = input("\nSelecione um sensor: ")
 
