@@ -1,4 +1,4 @@
-from tests.test_light_sensor import run as test_light_sensor
+from app.tests.test_light_sensor import run as test_light_sensor
 
 
 def main():
